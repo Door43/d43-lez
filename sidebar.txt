@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lez:home|Door43 (lez)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lez|d43-lez repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lez/archive/master.zip|d43-lez.zip]]
+
+**Recent Changes**
+{{changes>ns = lez}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lez|Ethnologue data]]
+
